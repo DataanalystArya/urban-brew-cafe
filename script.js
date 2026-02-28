@@ -205,7 +205,7 @@ const menuData = [
     let translateX = 0;
   
     function animateSlider() {
-      translateX -= 0.5;
+      translateX -= 3 ;
   
       if (translateX <= -cardWidth * cards.length) {
         translateX = 0;

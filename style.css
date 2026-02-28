@@ -537,7 +537,7 @@
     width:100%;
   }
   .hero {
-    animation: zoomBg 20s ease-in-out infinite alternate;
+    animation: none;
   }
   
   @keyframes zoomBg {
